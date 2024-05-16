@@ -1,0 +1,52 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  p {
+    font-size: 20px;
+    line-height: 1.6;
+    color: #666;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .social-media {
+    margin-top: 20px;
+  }
+  
+  .social-media p {
+    margin-bottom: 10px;
+  }
+  
+  .social-media ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .social-media ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background: url('latarabout.png') no-repeat;
+	background-size: cover;
+	background-position: center;}
